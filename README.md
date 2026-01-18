@@ -5,4 +5,5 @@ Exemple d'hébergement de site statique avec GitHub Pages
 - Utiliser GitHub Pages
 
 ## URL d'hébergement
-url : 
+URL GitHub : https://stephan-vqn.github.io/uel106/
+URL Hosting : https://verquin2.hosting.unilim.fr/uel106/
